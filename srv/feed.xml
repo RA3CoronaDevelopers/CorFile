@@ -4,16 +4,8 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Mon, 10 Jan 2022 23:22:58 +0800</pubDate>
+  <pubDate>Fri, 14 Jan 2022 21:49:55 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
-  <item>
-    <title>20220110.vhd.torrent</title>
-    <link>http://file.rmrts.com/srv/cor/mod/20220110.vhd.torrent</link>
-    <description><![CDATA[ magnet:?xt=urn:btih:86e92d0cc08f648991f1d2efc274b6eaff3d30af&dn=20220110.vhd&tr=http%3A%2F%2Ft.nyaatracker.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fmod%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
-    <guid isPermaLink="false">a99ee436346bd6b03723bf40b9b062e1</guid>
-    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/mod/20220110.vhd.torrent"/>
-    <pubDate>Mon, 10 Jan 2022 23:22:57 +0800</pubDate>
-  </item> 
   <item>
     <title>corona_3.15A_3.15B.lyix.torrent</title>
     <link>http://file.rmrts.com/srv/cor/patch/corona_3.15A_3.15B.lyix.torrent</link>
