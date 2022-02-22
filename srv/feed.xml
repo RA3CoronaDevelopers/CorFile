@@ -4,7 +4,7 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Tue, 22 Feb 2022 12:03:35 +0800</pubDate>
+  <pubDate>Tue, 22 Feb 2022 12:04:04 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
   <item>
     <title>corona_3.17A.zst.torrent</title>
@@ -15,28 +15,12 @@
     <pubDate>Tue, 25 Jan 2022 01:04:14 +0800</pubDate>
   </item> 
   <item>
-    <title>corona_3.16A_3.17A.lyix.torrent</title>
-    <link>http://file.rmrts.com/srv/cor/patch/corona_3.16A_3.17A.lyix.torrent</link>
-    <description><![CDATA[ magnet:?xt=urn:btih:7f59ac2247131589f00c588b786cb2aaf036617f&dn=corona_3.16A_3.17A.lyix&tr=http%3A%2F%2Ft.nyaatracker.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fpatch%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
-    <guid isPermaLink="false">ecec5bfb91c420881b5d6ff1c6ca544f</guid>
-    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/patch/corona_3.16A_3.17A.lyix.torrent"/>
-    <pubDate>Tue, 25 Jan 2022 00:57:01 +0800</pubDate>
-  </item> 
-  <item>
     <title>corona_3.16A.zst.torrent</title>
     <link>http://file.rmrts.com/srv/cor/mod/corona_3.16A.zst.torrent</link>
     <description><![CDATA[ magnet:?xt=urn:btih:c3b91bd1592ccd2cedd84430161d51032a078a06&dn=corona_3.16A.zst&tr=http%3A%2F%2Ft.nyaatracker.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fmod%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
     <guid isPermaLink="false">fb6ae39724f52d1d00bd4e2529858c77</guid>
     <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/mod/corona_3.16A.zst.torrent"/>
     <pubDate>Sat, 15 Jan 2022 15:39:35 +0800</pubDate>
-  </item> 
-  <item>
-    <title>corona_3.15A_3.16A.lyix.torrent</title>
-    <link>http://file.rmrts.com/srv/cor/patch/corona_3.15A_3.16A.lyix.torrent</link>
-    <description><![CDATA[ magnet:?xt=urn:btih:95e6c0abed35d697be53a2bb1dba9ac3491236b4&dn=corona_3.15A_3.16A.lyix&tr=http%3A%2F%2Ft.nyaatracker.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fpatch%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
-    <guid isPermaLink="false">34a5d8f9dcc30621dbc26582eb05e3e2</guid>
-    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/patch/corona_3.15A_3.16A.lyix.torrent"/>
-    <pubDate>Sat, 15 Jan 2022 15:32:52 +0800</pubDate>
   </item> 
   <item>
     <title>CoronaLauncher_Full_3.1.8040.38698.zip.torrent</title>
