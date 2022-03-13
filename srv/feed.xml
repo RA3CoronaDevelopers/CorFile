@@ -4,8 +4,16 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Mon, 14 Mar 2022 00:31:56 +0800</pubDate>
+  <pubDate>Mon, 14 Mar 2022 00:32:48 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
+  <item>
+    <title>corona_3.14A_3.18A.lyix.torrent</title>
+    <link>http://file.rmrts.com/srv/cor/patch/corona_3.14A_3.18A.lyix.torrent</link>
+    <description><![CDATA[ magnet:?xt=urn:btih:8bd1477b1b6cbdb13e8b46fc2cb0a51380e6756b&dn=corona_3.14A_3.18A.lyix&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fpatch%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
+    <guid isPermaLink="false">54b8e5b47bfd0430f69ca300d63ed3d7</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/patch/corona_3.14A_3.18A.lyix.torrent"/>
+    <pubDate>Mon, 14 Mar 2022 00:32:48 +0800</pubDate>
+  </item> 
   <item>
     <title>corona_3.15A_3.18A.lyix.torrent</title>
     <link>http://file.rmrts.com/srv/cor/patch/corona_3.15A_3.18A.lyix.torrent</link>
