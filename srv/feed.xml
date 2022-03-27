@@ -4,8 +4,16 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Fri, 18 Mar 2022 20:30:10 +0800</pubDate>
+  <pubDate>Sun, 27 Mar 2022 19:33:44 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
+  <item>
+    <title>corona_3.15A_3.181.lyix.torrent</title>
+    <link>http://file.rmrts.com/srv/cor/patch/corona_3.15A_3.181.lyix.torrent</link>
+    <description><![CDATA[ magnet:?xt=urn:btih:834a43476cf56dd68fc626c3b6362fb7cd501c66&dn=corona_3.15A_3.181.lyix&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fpatch%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
+    <guid isPermaLink="false">805f8a7d1428b80bf90eaf129be22cf2</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/patch/corona_3.15A_3.181.lyix.torrent"/>
+    <pubDate>Sun, 27 Mar 2022 19:33:43 +0800</pubDate>
+  </item> 
   <item>
     <title>318ANews.jpg.torrent</title>
     <link>http://file.rmrts.com/srv/cor/img/318ANews.jpg.torrent</link>
