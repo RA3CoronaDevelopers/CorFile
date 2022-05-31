@@ -4,8 +4,16 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Mon, 28 Mar 2022 01:45:49 +0800</pubDate>
+  <pubDate>Tue, 31 May 2022 20:11:38 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
+  <item>
+    <title>AppHost_Installer_v0.1.zip.torrent</title>
+    <link>http://file.rmrts.com/srv/cor/system/win7sp0/AppHost_Installer_v0.1.zip.torrent</link>
+    <description><![CDATA[ magnet:?xt=urn:btih:d32e68833cb4ed442ea33d491c009eed7326de44&dn=AppHost_Installer_v0.1.zip&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fsystem%2Fwin7sp0%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
+    <guid isPermaLink="false">10434cf3a6731f8eabefc457ad217e0e</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/system/win7sp0/AppHost_Installer_v0.1.zip.torrent"/>
+    <pubDate>Tue, 31 May 2022 20:11:37 +0800</pubDate>
+  </item> 
   <item>
     <title>corona_3.182.zst.torrent</title>
     <link>http://file.rmrts.com/srv/cor/mod/corona_3.182.zst.torrent</link>
