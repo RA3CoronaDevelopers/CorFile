@@ -4,8 +4,24 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Tue, 31 May 2022 20:24:30 +0800</pubDate>
+  <pubDate>Tue, 31 May 2022 20:26:31 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
+  <item>
+    <title>Windows6.1-KB3063858-x64-v0.1.msu.torrent</title>
+    <link>http://file.rmrts.com/srv/cor/redist/Windows6.1-KB3063858-x64-v0.1.msu.torrent</link>
+    <description><![CDATA[ magnet:?xt=urn:btih:2720d42f79f1ff3085093beab9785c6b722f6392&dn=Windows6.1-KB3063858-x64-v0.1.msu&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fredist%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
+    <guid isPermaLink="false">6235547a9ac3d931843fe931c15f8e51</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/redist/Windows6.1-KB3063858-x64-v0.1.msu.torrent"/>
+    <pubDate>Tue, 31 May 2022 20:26:29 +0800</pubDate>
+  </item> 
+  <item>
+    <title>Windows6.1-KB3063858-x86-v0.1.msu.torrent</title>
+    <link>http://file.rmrts.com/srv/cor/redist/Windows6.1-KB3063858-x86-v0.1.msu.torrent</link>
+    <description><![CDATA[ magnet:?xt=urn:btih:881e14a89de56a14d5f25d201b0ca97592fccf3d&dn=Windows6.1-KB3063858-x86-v0.1.msu&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fredist%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
+    <guid isPermaLink="false">6d2b63b73e20da5128490632995c4e65</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/redist/Windows6.1-KB3063858-x86-v0.1.msu.torrent"/>
+    <pubDate>Tue, 31 May 2022 20:26:29 +0800</pubDate>
+  </item> 
   <item>
     <title>corona_3.182.zst.torrent</title>
     <link>http://file.rmrts.com/srv/cor/mod/corona_3.182.zst.torrent</link>
