@@ -4,8 +4,16 @@
   <language>zh-cn</language>
   <title>日冕文件分发系统</title>
   <description><![CDATA[ 军械仓储重地，闲杂人等禁止入内 ]]></description>
-  <pubDate>Wed, 13 Jul 2022 22:45:22 +0800</pubDate>
+  <pubDate>Thu, 14 Jul 2022 23:37:38 +0800</pubDate>
   <link>http://file.rmrts.com</link> 
+  <item>
+    <title>corona_3.183.zst.torrent</title>
+    <link>http://file.rmrts.com/srv/cor/mod/corona_3.183.zst.torrent</link>
+    <description><![CDATA[ magnet:?xt=urn:btih:8352574cf0657ba2790d57cccd1998f22090bb1f&dn=corona_3.183.zst&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fmod%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
+    <guid isPermaLink="false">00f11d5d988999dd3c7a6dd53908201a</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/mod/corona_3.183.zst.torrent"/>
+    <pubDate>Thu, 14 Jul 2022 23:37:36 +0800</pubDate>
+  </item> 
   <item>
     <title>CoronaLauncher_Setup_3.4.8188.42711.exe.torrent</title>
     <link>http://file.rmrts.com/srv/cor/launcher/CoronaLauncher_Setup_3.4.8188.42711.exe.torrent</link>
