@@ -123,3 +123,8 @@
     <link>http://file.rmrts.com/srv/cor/mod/corona_3.181.zst.torrent</link>
     <description><![CDATA[ magnet:?xt=urn:btih:d6d841a51b50b0ac2ed6c68b9a92ce4f2b96010a&dn=corona_3.181.zst&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&ws=http%3A%2F%2Ffile.rmrts.com%2Fsrv%2Fcor%2Fmod%2F&x.pe=router.bittorrent.com%3A6881&x.pe=dht.transmissionbt.com%3A6881&x.pe=dht.aelitis.com%3A6881 ]]></description>
     <guid isPermaLink="false">391f20ee3e9df025416ceb773f3496b2</guid>
+    <enclosure type="application/x-bittorrent"  url="http://file.rmrts.com/srv/cor/mod/corona_3.181.zst.torrent"/>
+    <pubDate>Sun, 27 Mar 2022 19:54:04 +0800</pubDate>
+  </item>
+</channel>
+</rss>
